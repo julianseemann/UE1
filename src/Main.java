@@ -4,8 +4,8 @@ public class Main {
 
         String vorname = "Julian";
         String nachname = "Seemann";
-        Integer gebuertsjahr = 2000;
-        System.out.println("Mr "+vorname+" "+nachname+" im Jahrgang "+gebuertsjahr);
+        Integer gebuertsdatum = 04032000;
+        System.out.println("Mr "+vorname+" "+nachname+" im Jahrgang "+gebuertsdatum);
 
     }
 }
